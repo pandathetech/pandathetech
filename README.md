@@ -6,7 +6,7 @@ I’m an IT professional with a strong foundation in systems administration, net
 
 ## 🎯 Objective
 
-To kickstart my cybersecurity career as a Tier 1 SOC Analyst by leveraging my hands-on experience in IT infrastructure, scripting, and system administration. I'm eager to contribute to a security-focused team, respond to incidents, and build a solid foundation in defensive operations.
+To kickstart my cybersecurity career as a Cybersecurity Analyst by leveraging my hands-on experience in IT infrastructure, scripting, and system administration. I'm eager to contribute to a security-focused team, respond to incidents, and build a solid foundation in defensive operations.
 
 ---
 
