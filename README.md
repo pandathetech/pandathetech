@@ -1,16 +1,20 @@
-# 👋 Hello, I'm Bryan
+# Bryan Yu
 
-I’m an IT professional with a strong foundation in systems administration, networking, and automation—now transitioning into cybersecurity. I'm passionate about defending systems and continuously learning how to identify, mitigate, and respond to evolving digital threats.
+---
+
+## 👋 About Me
+
+I’m a Cybersecurity student at Polytechnique Montréal, with a strong foundation in IT systems administration, networking, and automation. My hands-on experience as an IT Help Desk Intern has allowed me to refine my technical skills, while also gaining practical insights into troubleshooting, user support, and system management. Now, I'm focusing on building my expertise in cybersecurity, aiming to defend against evolving digital threats and improve security practices across systems and networks.
 
 ---
 
 ## 🎯 Objective
 
-To kickstart my cybersecurity career as a Cybersecurity Analyst by leveraging my hands-on experience in IT infrastructure, scripting, and system administration. I'm eager to contribute to a security-focused team, respond to incidents, and build a solid foundation in defensive operations.
+I’m looking to gain hands-on experience in cybersecurity by applying my knowledge of IT systems, networking, and automation to tackle real-world security challenges. Eager to contribute to a dynamic team, I aim to respond to incidents, enhance defenses, and continuously develop my expertise in cybersecurity operations to help protect against evolving digital threats.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
 ### ☁️ Cloud Computing
 - **AWS**, **Microsoft Azure**
@@ -41,21 +45,9 @@ To kickstart my cybersecurity career as a Cybersecurity Analyst by leveraging my
 
 ---
 
-## 📜 Certifications (Coming Soon)
-
-
-
----
-
-## 🚧 Projects (Coming Soon)
-
-
-
----
-
 📫 **Let’s Connect**
 
-- 🌐 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/bryan-yu-15a398291/))
-- 📧 Email: *bryanyu989@gmail.com*
+- 🌐 [LinkedIn](https://www.linkedin.com/in/bryan-yu-15a398291/)
+- 📧 [Email](bryanyu989@gmail.com)
 
 ---
