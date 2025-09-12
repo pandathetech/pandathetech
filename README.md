@@ -37,4 +37,6 @@ My journey in Computer Science has led me to develop a passion for cybersecurity
 
 ## Projects
 - Active Directory User Automation
-- Linux User Provisioning Script
+- Linux User Automation
+- System Monitoring
+- Windows User Automation
