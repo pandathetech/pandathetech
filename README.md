@@ -2,14 +2,14 @@
 <a href="https://www.linkedin.com/in/bryan-yu-15a398291/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Brief Introduction
-I am a recent Computer Science graduate with a profound interest in technology and a growing passion for cybersecurity.
+Cybersecurity Student @ Polytechnique Montreal and Computer Science Graduate @ Cégep de Rosemont.
 
 ## Objective
 My journey in Computer Science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to become a Cybersecurity Analyst.
 
 ## Skills
 
-| Skill |
+| Skills |
 |-------|
 | Automation |
 | Cybersecurity |
