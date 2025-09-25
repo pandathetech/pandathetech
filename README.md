@@ -2,21 +2,12 @@
 <a href="https://www.linkedin.com/in/bryan-yu-15a398291/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Brief Introduction
-Cybersecurity Student @ Polytechnique Montreal and Computer Science Graduate @ Cégep de Rosemont.
+Cybersecurity Student @ Polytechnique Montreal & Computer Science Graduate @ Cégep de Rosemont.
 
 ## Objective
 My journey in Computer Science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to become a Cybersecurity Analyst.
 
-## Skills
-- Automation
-- Cybersecurity
-- Database Administration
-- Network Administration
-- System Administration
-- Tech Support
-- Virtualization
-
-## Tools 
+## Skills 
 ### Automation / Scripting
 <div> <img src="https://img.shields.io/badge/-Ansible-EE0000?&style=for-the-badge&logo=Ansible&logoColor=white" /> <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU%20Bash&logoColor=white" /> <img src="https://img.shields.io/badge/-PowerShell-012456?&style=for-the-badge&logo=PowerShell&logoColor=white" /> <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" /> </div>
 
@@ -31,9 +22,3 @@ My journey in Computer Science has led me to develop a passion for cybersecurity
 
 ### Virtualization & Cloud
 <div> <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" /> <img src="https://img.shields.io/badge/-Azure-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" /> <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" /> <img src="https://img.shields.io/badge/-Hyper--V-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" /> <img src="https://img.shields.io/badge/-Kubernetes-326CE5?&style=for-the-badge&logo=Kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/-Proxmox-E57000?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" /> </div>
-
-## Projects
-- Active Directory User Automation
-- Linux User Automation
-- System Monitoring
-- Windows User Automation
