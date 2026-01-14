@@ -1,24 +1,62 @@
-# Hello, I'm Bryan Yu
-<a href="https://www.linkedin.com/in/bryan-yu-tech/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# 👋 Hi, I'm Bryan Yu
 
-## Brief Introduction
-Cybersecurity Student @ Polytechnique Montreal & Computer Science Graduate @ Cégep de Rosemont.
+## 🛡️ About Me
 
-## Objective
-My journey in Computer Science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to become a Cybersecurity Analyst.
+🧑‍💻🛡️ Cybersecurity Student @ Polytechnique Montréal  
+💻🎓 Computer Science Graduate @ Cégep de Rosemont  
+🔐 Aspiring Cybersecurity Analyst
 
-## Skills 
-### Automation / Scripting
-<div> <img src="https://img.shields.io/badge/-Ansible-EE0000?&style=for-the-badge&logo=Ansible&logoColor=white" /> <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU%20Bash&logoColor=white" /> <img src="https://img.shields.io/badge/-PowerShell-012456?&style=for-the-badge&logo=PowerShell&logoColor=white" /> <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" /> </div>
+## 🧠 Core Skills
 
-### Databases
-<div> <img src="https://img.shields.io/badge/-MariaDB-003545?&style=for-the-badge&logo=MariaDB&logoColor=white" /> <img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" /> <img src="https://img.shields.io/badge/-Oracle-F80000?&style=for-the-badge&logo=Oracle&logoColor=white" /> </div>
+### ⚙️ Automation
+<div>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div>
 
-### Networking & Servers
-<div> <img src="https://img.shields.io/badge/-Active%20Directory-003366?&style=for-the-badge&logo=Microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-DHCP-000000?&style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/-DNS-1976D2?&style=for-the-badge&logo=internet-explorer&logoColor=white" /> <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" /> <img src="https://img.shields.io/badge/-RDP-0078D7?&style=for-the-badge&logo=Windows&logoColor=white" /> <img src="https://img.shields.io/badge/-SSH-4EAA25?&style=for-the-badge&logo=OpenSSH&logoColor=white" /> <img src="https://img.shields.io/badge/-TCP/IP-333333?&style=for-the-badge&logo=code&logoColor=white" /> <img src="https://img.shields.io/badge/-VLAN-00BFFF?&style=for-the-badge&logo=networkx&logoColor=white" /> <img src="https://img.shields.io/badge/-VPN-008080?&style=for-the-badge&logo=OpenVPN&logoColor=white" /> <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" /> </div>
+### 🛠️ IT Service Management (ITSM)
+<div>
+  <img src="https://img.shields.io/badge/Atera-7B68EE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Freshservice-2E9AFE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft365&logoColor=white" />
+</div>
 
-### IT Support Tools
-<div> <img src="https://img.shields.io/badge/-Atera-7B68EE?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-Exchange-0078D4?&style=for-the-badge&logo=Microsoft%20Exchange&logoColor=white" /> <img src="https://img.shields.io/badge/-Freshservice-2E9AFE?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-Git-181717?&style=for-the-badge&logo=Git&logoColor=white" /> <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white" /> <img src="https://img.shields.io/badge/-GitLab-FC6D26?&style=for-the-badge&logo=GitLab&logoColor=white" /> <img src="https://img.shields.io/badge/-Office%20365-D83B01?&style=for-the-badge&logo=Microsoft%20365&logoColor=white" /> <img src="https://img.shields.io/badge/-Slack-4A154B?&style=for-the-badge&logo=Slack&logoColor=white" /> <img src="https://img.shields.io/badge/-Zimbra-DA1F26?&style=for-the-badge&logoColor=white" /> </div>
+### 🌐 Network Administration
+<div>
+  <img src="https://img.shields.io/badge/DHCP-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DNS-1976D2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TCP%2FIP-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VLAN-00BFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VPN-008080?style=for-the-badge&logo=openvpn&logoColor=white" />
+  <img src="https://img.shields.io/badge/RDP-0078D7?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSH-4EAA25?style=for-the-badge&logo=openssh&logoColor=white" />
+</div>
 
-### Virtualization & Cloud
-<div> <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" /> <img src="https://img.shields.io/badge/-Azure-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" /> <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" /> <img src="https://img.shields.io/badge/-Hyper--V-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" /> <img src="https://img.shields.io/badge/-Kubernetes-326CE5?&style=for-the-badge&logo=Kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/-Proxmox-E57000?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" /> </div>
+### 🖥️ System Administration
+<div>
+  <img src="https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Exchange-0078D4?style=for-the-badge&logo=microsoft-exchange&logoColor=white" />
+</div>
+
+#### 🗄️ Virtualization
+<div>
+  <img src="https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+</div>
+
+## 📌 What You'll Find Here
+- 🧪 Lab projects (automation, networking, security)
+- 🔐 Cybersecurity experiments
+- 🛠️ Scripts and tools for system administration
+
+## Contacts
+<a href="https://www.linkedin.com/in/bryan-yu-tech/">
+  <img src="https://img.shields.io/badge/LinkedIn-Bryan%20Yu-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
