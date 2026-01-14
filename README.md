@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bryan Yu
 
-## 🛡️ About Me
+## 👨🏻 About Me
 
 🧑‍💻🛡️ Cybersecurity Student @ Polytechnique Montréal  
 💻🎓 Computer Science Graduate @ Cégep de Rosemont  
